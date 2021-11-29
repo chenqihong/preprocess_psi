@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Run">
+      <i c="1" l="1632454755028" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1632453183317" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1632453227937" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1632454728469" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1632453239626" />
+    </e>
+  </component>
+</application>

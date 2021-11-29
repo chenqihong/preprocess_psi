@@ -1,0 +1,606 @@
+{
+  "appInfo" : {
+    "build" : "211.7142.13",
+    "buildDate" : "2021-04-21T08:35:52.696Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2021-09-24T19:08:15.850495Z",
+    "os" : "macOS 10.16",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+9-b1341.41"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "times" : {
+      "totalUpdatingTime" : 5747307000,
+      "indexingTime" : 4275824000,
+      "scanFilesTime" : 206186000,
+      "pushPropertiesTime" : 2819000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-09-24T19:08:10.102744Z",
+      "updatingEnd" : "2021-09-24T19:08:15.850051Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : {
+        "part" : 9823323477,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 507701543,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 1717,
+      "totalFilesSize" : 28924989,
+      "indexingSpeed" : {
+        "totalBytes" : 28924989,
+        "totalTime" : 9823323477
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 1717,
+        "totalFilesSize" : 28924989,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 9823323477,
+          "total" : 9823323477
+        }
+      } ]
+    }, {
+      "fileType" : "PythonStub",
+      "partOfTotalIndexingTime" : {
+        "part" : 1116688088,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 264767261,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 886,
+      "totalFilesSize" : 1990131,
+      "indexingSpeed" : {
+        "totalBytes" : 1990131,
+        "totalTime" : 1116688088
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 886,
+        "totalFilesSize" : 1990131,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 1116688088,
+          "total" : 1116688088
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalIndexingTime" : {
+        "part" : 327629610,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1036793,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 10140,
+      "indexingSpeed" : {
+        "totalBytes" : 10140,
+        "totalTime" : 327629610
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 10140,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 327629610,
+          "total" : 327629610
+        }
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalIndexingTime" : {
+        "part" : 214262438,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 92607475,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 177599,
+      "indexingSpeed" : {
+        "totalBytes" : 177599,
+        "totalTime" : 214262438
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 177599,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 214262438,
+          "total" : 214262438
+        }
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : {
+        "part" : 143054439,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 45623748,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 57,
+      "totalFilesSize" : 14857,
+      "indexingSpeed" : {
+        "totalBytes" : 14857,
+        "totalTime" : 143054439
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 57,
+        "totalFilesSize" : 14857,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 143054439,
+          "total" : 143054439
+        }
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : {
+        "part" : 70232959,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 152376457,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 324,
+      "totalFilesSize" : 5244550,
+      "indexingSpeed" : {
+        "totalBytes" : 5244550,
+        "totalTime" : 70232959
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 324,
+        "totalFilesSize" : 5244550,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 70232959,
+          "total" : 70232959
+        }
+      } ]
+    }, {
+      "fileType" : "C++",
+      "partOfTotalIndexingTime" : {
+        "part" : 6007890,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1397003,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 16221,
+      "indexingSpeed" : {
+        "totalBytes" : 16221,
+        "totalTime" : 6007890
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 16221,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 6007890,
+          "total" : 6007890
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalIndexingTime" : {
+        "part" : 4534752,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 734832,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 12895,
+      "indexingSpeed" : {
+        "totalBytes" : 12895,
+        "totalTime" : 4534752
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 12895,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 4534752,
+          "total" : 4534752
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : {
+        "part" : 4018293,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 9336047,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 46,
+      "totalFilesSize" : 92633,
+      "indexingSpeed" : {
+        "totalBytes" : 92633,
+        "totalTime" : 4018293
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 46,
+        "totalFilesSize" : 92633,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 4018293,
+          "total" : 4018293
+        }
+      } ]
+    }, {
+      "fileType" : "Shell Script",
+      "partOfTotalIndexingTime" : {
+        "part" : 1265253,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1620726,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 4,
+      "totalFilesSize" : 24013,
+      "indexingSpeed" : {
+        "totalBytes" : 24013,
+        "totalTime" : 1265253
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : 24013,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 1265253,
+          "total" : 1265253
+        }
+      } ]
+    }, {
+      "fileType" : "ReST",
+      "partOfTotalIndexingTime" : {
+        "part" : 273905,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1195656,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 9586,
+      "indexingSpeed" : {
+        "totalBytes" : 9586,
+        "totalTime" : 273905
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 9586,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 273905,
+          "total" : 273905
+        }
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalIndexingTime" : {
+        "part" : 102963,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 560686,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 96,
+      "indexingSpeed" : {
+        "totalBytes" : 96,
+        "totalTime" : 102963
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 96,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 102963,
+          "total" : 102963
+        }
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalIndexingTime" : {
+        "part" : 52756,
+        "total" : 11711446823
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 582727,
+        "total" : 1079540954
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 68,
+      "indexingSpeed" : {
+        "totalBytes" : 68,
+        "totalTime" : 52756
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 68,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 52756,
+          "total" : 52756
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 11322394610,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 2665,
+      "totalNumberOfFilesIndexedByExtensions" : 2029,
+      "totalFilesSize" : 31117716,
+      "indexingSpeed" : {
+        "totalBytes" : 31117716,
+        "totalTime" : 11322394610
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 175288531,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 3046,
+      "totalNumberOfFilesIndexedByExtensions" : 2032,
+      "totalFilesSize" : 36517778,
+      "indexingSpeed" : {
+        "totalBytes" : 36517778,
+        "totalTime" : 175288531
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 104984493,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 3046,
+      "totalNumberOfFilesIndexedByExtensions" : 2032,
+      "totalFilesSize" : 36517778,
+      "indexingSpeed" : {
+        "totalBytes" : 36517778,
+        "totalTime" : 104984493
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : {
+        "part" : 48120769,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 177599,
+      "indexingSpeed" : {
+        "totalBytes" : 177599,
+        "totalTime" : 48120769
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 43389064,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 57,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14857,
+      "indexingSpeed" : {
+        "totalBytes" : 14857,
+        "totalTime" : 43389064
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : {
+        "part" : 8134445,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 57,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14857,
+      "indexingSpeed" : {
+        "totalBytes" : 14857,
+        "totalTime" : 8134445
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 3962007,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 12895,
+      "indexingSpeed" : {
+        "totalBytes" : 12895,
+        "totalTime" : 3962007
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 2769454,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 57,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14857,
+      "indexingSpeed" : {
+        "totalBytes" : 14857,
+        "totalTime" : 2769454
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : {
+        "part" : 2187299,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 56,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 14704,
+      "indexingSpeed" : {
+        "totalBytes" : 14704,
+        "totalTime" : 2187299
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 216151,
+        "total" : 11711446823
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1007,
+      "indexingSpeed" : {
+        "totalBytes" : 1007,
+        "totalTime" : 216151
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (pythonProject)",
+      "numberOfScannedFiles" : 3199,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 3045,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 193373913,
+      "timeProcessingUpToDateFiles" : 8566599,
+      "timeUpdatingContentLessIndexes" : 107930637,
+      "timeIndexingWithoutContent" : 5970761
+    }, {
+      "providerName" : "Module 'pythonProject'",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 1,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 1513251,
+      "timeProcessingUpToDateFiles" : 4197,
+      "timeUpdatingContentLessIndexes" : 1186940,
+      "timeIndexingWithoutContent" : 16200
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@51b4da3e",
+      "numberOfScannedFiles" : 213,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 96473,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@5d9a6dda",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@5d9a6dda",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@51b4da3e",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (pythonProject): 3045 files\nModule 'pythonProject': 1 file",
+      "totalNumberOfIndexedFiles" : 3046,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 2032,
+      "totalIndexingTime" : 4275405841,
+      "numberOfTooLargeForIndexingFiles" : 0
+    } ]
+  }
+}

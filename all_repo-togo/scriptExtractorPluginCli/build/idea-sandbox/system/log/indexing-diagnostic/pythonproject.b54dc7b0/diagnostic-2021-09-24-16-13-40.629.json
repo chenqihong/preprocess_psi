@@ -1,0 +1,162 @@
+{
+  "appInfo" : {
+    "build" : "211.7142.13",
+    "buildDate" : "2021-04-21T08:35:34.118Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2021-09-24T23:13:40.632535Z",
+    "os" : "macOS 10.16",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+9-b1341.41"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "pythonProject",
+    "times" : {
+      "totalUpdatingTime" : 2764059000,
+      "indexingTime" : 52636000,
+      "scanFilesTime" : 580134000,
+      "pushPropertiesTime" : 4831000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-09-24T23:13:37.865217Z",
+      "updatingEnd" : "2021-09-24T23:13:40.629276Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : {
+        "part" : 44624579,
+        "total" : 44624579
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 25873111,
+        "total" : 25873111
+      },
+      "totalNumberOfFiles" : 39,
+      "totalFilesSize" : 1661,
+      "indexingSpeed" : {
+        "totalBytes" : 1661,
+        "totalTime" : 44624579
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Python SDK Python 3.9 (pythonProject)",
+        "numberOfFiles" : 39,
+        "totalFilesSize" : 1661,
+        "partOfTotalIndexingTimeOfThisFileType" : {
+          "part" : 44624579,
+          "total" : 44624579
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 30289002,
+        "total" : 44624579
+      },
+      "totalNumberOfFiles" : 39,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1661,
+      "indexingSpeed" : {
+        "totalBytes" : 1661,
+        "totalTime" : 30289002
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 14335577,
+        "total" : 44624579
+      },
+      "totalNumberOfFiles" : 39,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1661,
+      "indexingSpeed" : {
+        "totalBytes" : 1661,
+        "totalTime" : 14335577
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (pythonProject)",
+      "numberOfScannedFiles" : 3199,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 39,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 501607954,
+      "timeProcessingUpToDateFiles" : 159782981,
+      "timeUpdatingContentLessIndexes" : 29404412,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1d7e54e8",
+      "numberOfScannedFiles" : 213,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 459322248,
+      "timeProcessingUpToDateFiles" : 9038694,
+      "timeUpdatingContentLessIndexes" : 4255848,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "Module 'pythonProject'",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 40906113,
+      "timeProcessingUpToDateFiles" : 3906719,
+      "timeUpdatingContentLessIndexes" : 362503,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@617f2fb9",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@617f2fb9",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1d7e54e8",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Python SDK Python 3.9 (pythonProject)",
+      "totalNumberOfIndexedFiles" : 39,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : 41674607,
+      "numberOfTooLargeForIndexingFiles" : 0
+    } ]
+  }
+}

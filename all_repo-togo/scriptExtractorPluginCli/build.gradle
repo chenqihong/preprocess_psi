@@ -1,0 +1,43 @@
+plugins {
+    id 'org.jetbrains.intellij' version '1.1.6'
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version = '2021.1.1'
+    type = 'PC'
+    downloadSources = false
+    plugins = ['PythonCore']
+    tasks{
+        runIde {
+            args(
+                    'scriptExtractorPlugin',
+                    project.hasProperty('projectDirectory') ? projectDirectory: 'a',
+                    project.hasProperty('fileName') ? fileName: 'n',
+                    project.hasProperty('outputFileDirectory') ? outputFileDirectory: 'n'
+            )
+            jvmArgs('-Djava.awt.headless=true')
+        }
+    }
+}
+patchPluginXml {
+    changeNotes = """
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>"""
+}
+test {
+    useJUnitPlatform()
+}

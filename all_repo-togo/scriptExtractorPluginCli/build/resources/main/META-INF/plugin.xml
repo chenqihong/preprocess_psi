@@ -1,0 +1,22 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="211.7142" until-build="211.*" />
+  <id>org.example.scriptExtractorPluginCli</id>
+  <name>ScriptExtractorPlugin</name>
+  <vendor email="qc@yourcompany.com" url="http://www.qccompany.com">qcCompany</vendor>
+  <description><![CDATA[This plugin finds parameters information of the given python script in cli mode.<br>
+    <em>None</em>]]></description>
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+  <depends>com.intellij.modules.python</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <appStarter implementation="com.scriptExtractorPlugin.scriptExtractorPlugin" />
+  </extensions>
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+</idea-plugin>
